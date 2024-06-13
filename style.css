@@ -1,3 +1,11 @@
 body{
- 
+ background-color: rgb(128, 128, 128);
+
+
+}
+
+header{
+    display: flex;
+    background-color: cornflowerblue;
+    justify-content: space-between;
 }
