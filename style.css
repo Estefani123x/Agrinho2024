@@ -31,7 +31,9 @@ justify-content: center;
 align-items: center;
 
 }
-
+.sobre_imagem{
+    width: 300px;
+}
 .sobre_texto{
 
     padding: 40px;
